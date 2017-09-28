@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sankkumar/PPPLMER-7766/Key_Pinning_demo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="df40bf7bf2646412e3a544401e9a3732d1697ea6">
+        <dex dex="/Users/sankkumar/PPPLMER-7766/Key_Pinning_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3a0de56878c6fca3a5c82db59cf5b0f59bc69376/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sankkumar/PPPLMER-7766/Key_Pinning_demo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/sankkumar/PPPLMER-7766/Key_Pinning_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_2f6788609b86042835305cac34b3c433cfe891e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sankkumar/PPPLMER-7766/Key_Pinning_demo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/sankkumar/PPPLMER-7766/Key_Pinning_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_f3fce7fb109623a6133ea1d24701fc9d29af186f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sankkumar/PPPLMER-7766/Key_Pinning_demo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c141ebcba1ab31061e9ba80b3d5d6ab95af193ae">
+        <dex dex="/Users/sankkumar/PPPLMER-7766/Key_Pinning_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fde9e7b6431190c8ffe244edc789c756a5e17ef2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sankkumar/PPPLMER-7766/Key_Pinning_demo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/sankkumar/PPPLMER-7766/Key_Pinning_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_26e57677a7a055f01297621019c2e2be09874e9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sankkumar/PPPLMER-7766/Key_Pinning_demo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/sankkumar/PPPLMER-7766/Key_Pinning_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_6ad9bd55364e2926c4ee1a3c7a44aa1bcba4b260/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sankkumar/PPPLMER-7766/Key_Pinning_demo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/sankkumar/PPPLMER-7766/Key_Pinning_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_91e2ecde1cab55f83e8423e1a5c99b5afe36297e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sankkumar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/sankkumar/PPPLMER-7766/Key_Pinning_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_daa28c69a3e3f5e457d3afe13c058470ac9b58bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sankkumar/PPPLMER-7766/Key_Pinning_demo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sankkumar/PPPLMER-7766/Key_Pinning_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_857599ecda010d861c414c0a619375f919231b97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sankkumar/PPPLMER-7766/Key_Pinning_demo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/sankkumar/PPPLMER-7766/Key_Pinning_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_c2e0f88b6f99ef2a638dfc663e978d7847cb1aa0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sankkumar/PPPLMER-7766/Key_Pinning_demo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/sankkumar/PPPLMER-7766/Key_Pinning_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_8530b459253d9875b66939535a6c61f58a13b08f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sankkumar/PPPLMER-7766/Key_Pinning_demo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/sankkumar/PPPLMER-7766/Key_Pinning_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_d2373e23ef7c1bd592c5189afdca29a24e035b3f/classes.dex" />
+    </item>
+
+</items>

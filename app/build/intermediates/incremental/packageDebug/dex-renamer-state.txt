@@ -1,0 +1,7 @@
+#Fri Jun 30 14:48:04 EDT 2017
+base.0=/Users/sankkumar/PPPLMER-7766/Key_Pinning_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3a0de56878c6fca3a5c82db59cf5b0f59bc69376
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/sankkumar/PPPLMER-7766/Key_Pinning_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fde9e7b6431190c8ffe244edc789c756a5e17ef2/classes.dex
+base.1=/Users/sankkumar/PPPLMER-7766/Key_Pinning_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fde9e7b6431190c8ffe244edc789c756a5e17ef2
+file.0=/Users/sankkumar/PPPLMER-7766/Key_Pinning_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3a0de56878c6fca3a5c82db59cf5b0f59bc69376/classes.dex

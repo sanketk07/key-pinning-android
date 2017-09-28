@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="353181795400020"
+    token="7684231285563627612" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="353127294694314"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/sankkumar/PPPLMER-7766/Key_Pinning_demo/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="353166475743902"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/sankkumar/PPPLMER-7766/Key_Pinning_demo/app/build/intermediates/builds/debug/353166475743902/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build timestamp="353181795400020" />
+
+</instant-run>
